@@ -1,0 +1,171 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-color:#AAA9A9;
+	}
+
+    .headerbg {
+	width:100%;
+	height:200px;
+        background-color:#80A198;
+    }
+    .footerbg{
+        width:100%;
+		height:150px;
+        background-color:#CCCCCC;
+
+    }
+	
+	.mainbody{
+	width:100%;
+	background-color:#ECECE0;
+	}
+	
+	.innermainbody{
+		
+		background-color:#ECECE0;
+		
+	}
+	
+	.main{
+	width:86%;
+	margin-left:7%;
+	margin-right:7%;
+	height:200px;
+    background-color:	#2C97C7
+
+	}
+
+     
+	.ChngAcc_label,.login_label{
+                float:left;
+				margin-left:20px;
+				font-family:Tahoma, Geneva, sans-serif;
+			
+               
+	}
+
+        .ChngAcc_input,.login_input{
+            	float:right;
+				margin-right:20px;
+        }
+		
+		.ChngAcc_div,.login_div{
+			float:left;
+			width:100%;
+		}
+		
+		.error{
+			 	font-size:12px;
+				margin:10px;
+				font-family:Tahoma, Geneva, sans-serif;
+				color:#C03;
+				float:right;
+				margin-right:20px;
+		
+		}
+		
+		.menubar{
+	
+	height:auto;
+	text-indent:5px;
+	width:auto;
+	background-color:#80A198;
+	border-bottom:#87A91E solid thin;
+	font-family:Verdana, Geneva, sans-serif;
+	font-weight:500;
+	font-size:18px;
+	padding:2px;
+	font-style:italic;
+	color:#03F;
+
+	}
+	
+	.abc{
+		font-family:Verdana, Geneva, sans-serif;
+	font-weight:500;
+	font-size:14px;
+	
+	
+	}
+		
+		
+		
+h4{
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:16px;
+	color:#930;
+}
+
+a:link {
+    font-family: tahoma,verdana,arial;
+    color: #0099FF;
+    text-decoration: none;
+	font-weight:500;
+	}
+a:active {
+    font-family: tahoma,verdana,arial;
+    color: #000000;
+    text-decoration: none;
+		}
+a:visited {
+	font-family: tahoma,verdana,arial;
+  	color: #000000;
+	text-decoration: none;
+		}
+a:hover {
+	font-family: tahoma,verdana,arial;
+	color: #E27C00;
+	text-decoration: none;
+	
+	}
+	
+	.session{
+	font-style:italic;
+	color:#00F;
+	font-size:24px;
+	margin-left:60;
+	
+}
+
+#records
+{
+font-family:Verdana, Geneva, sans-serif;
+width:80%;
+border-collapse:collapse;
+
+}
+
+#records td, #records th 
+{
+font-size:12px;
+border:1px solid #5E5E5E;
+padding:3px 7px 2px 7px;
+}
+#records th 
+{
+font-size:12px;
+text-align:left;
+padding-top:5px;
+padding-bottom:4px;
+background-color:#929292;
+color:#03F;
+font-style:italic;
+}
+#records tr.alt td 
+{
+color:#000;
+background-color:#EAF2D3;
+}
+
+
+.sub_head{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:24px;
+	font-weight:bold;
+	float:none;
+	font-style:italic;
+	color:#03F;
+	
+}
